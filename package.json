@@ -1,0 +1,22 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gidbless01/Web-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gidbless01/Web-App/issues"
+  },
+  "homepage": "https://github.com/gidbless01/Web-App#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
